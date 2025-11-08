@@ -29,7 +29,7 @@ Nach über 20 Jahren Erfahrung als **Tätowierer** und mehreren Jahren in der **
 |---------|--------------|
 | 📊 **Bike Sales Dashboard (Power BI)** | Interaktives Dashboard zur Analyse von Verkaufsdaten — klare Insights für Management und Vertrieb. |
 | 🏠 **Airbnb Data Analysis (Python)** | Datenbereinigung, EDA, Ausreißeranalyse, Pivot-Tabellen, Visualisierungen. |
-| 🍷 **Wine ML Analysis (Python & Machine Learning)** | Clustering & Vorhersagemodell → Qualitätsklassifikation von Weinen. |
+| 🍷 **Marktkampagne Analyse** | Clustering & Vorhersagemodell → Qualitätsklassifikation von Weinen. |
 
 ➡️ Weitere Projekte folgen regelmäßig.
 
